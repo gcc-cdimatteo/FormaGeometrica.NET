@@ -9,3 +9,4 @@
 /Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/refint/DevelopmentChallenge.Data.8.dll
 /Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/DevelopmentChallenge.Data.8.pdb
 /Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/ref/DevelopmentChallenge.Data.8.dll
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/DevelopmentChallenge.Data.8.sourcelink.json

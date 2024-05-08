@@ -7,6 +7,7 @@ public static class Traductor
         if (cantidad == 1) return NombreSingular(forma, idioma);
         return NombrePlural(forma, idioma);
     }
+
     private static string NombreSingular(TipoFormaGeometrica forma, Idioma idioma)
     {
         switch (forma)
@@ -35,7 +36,7 @@ public static class Traductor
                 switch (idioma)
                 {
                     case Idioma.CASTELLANO:
-                        return "Círculo";
+                        return "Circulo";
                     case Idioma.ITALIANO:
                         return "Cerchio";
                     default:
@@ -55,7 +56,7 @@ public static class Traductor
                 switch (idioma)
                 {
                     case Idioma.CASTELLANO:
-                        return "Rectángulo";
+                        return "Rectangulo";
                     case Idioma.ITALIANO:
                         return "Rettangolo";
                     default:
@@ -94,7 +95,7 @@ public static class Traductor
                 switch (idioma)
                 {
                     case Idioma.CASTELLANO:
-                        return "Círculos";
+                        return "Circulos";
                     case Idioma.ITALIANO:
                         return "Cerchi";
                     default:
@@ -114,7 +115,7 @@ public static class Traductor
                 switch (idioma)
                 {
                     case Idioma.CASTELLANO:
-                        return "Rectángulos";
+                        return "Rectangulos";
                     case Idioma.ITALIANO:
                         return "Rettangoli";
                     default:
@@ -171,7 +172,7 @@ public static class Traductor
             case Idioma.CASTELLANO:
                 return "Reporte de Formas";
             case Idioma.ITALIANO:
-                return "Rapporto sui Moduli";
+                return "Rapporto sulle Forme";
             default:
                 return "Shapes Report";
         }
