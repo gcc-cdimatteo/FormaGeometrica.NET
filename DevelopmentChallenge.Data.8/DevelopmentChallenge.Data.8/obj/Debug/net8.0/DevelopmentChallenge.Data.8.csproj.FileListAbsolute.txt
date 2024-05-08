@@ -1,0 +1,11 @@
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/bin/Debug/net8.0/DevelopmentChallenge.Data.8.deps.json
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/bin/Debug/net8.0/DevelopmentChallenge.Data.8.dll
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/bin/Debug/net8.0/DevelopmentChallenge.Data.8.pdb
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/DevelopmentChallenge.Data.8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/DevelopmentChallenge.Data.8.AssemblyInfoInputs.cache
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/DevelopmentChallenge.Data.8.AssemblyInfo.cs
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/DevelopmentChallenge.Data.8.csproj.CoreCompileInputs.cache
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/DevelopmentChallenge.Data.8.dll
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/refint/DevelopmentChallenge.Data.8.dll
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/DevelopmentChallenge.Data.8.pdb
+/Users/cdimatteo/FIUBA/FormaGeometrica.NET/DevelopmentChallenge.Data.8/DevelopmentChallenge.Data.8/obj/Debug/net8.0/ref/DevelopmentChallenge.Data.8.dll
